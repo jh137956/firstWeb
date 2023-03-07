@@ -24,7 +24,7 @@ export const App: React.FunctionComponent = () => {
    }, []);
 
    const login = () => {
-    
+      console.log(idValue)
    }
 
    return (
